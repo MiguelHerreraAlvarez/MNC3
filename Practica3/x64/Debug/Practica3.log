@@ -1,0 +1,6 @@
+﻿  Actividad2.cpp
+  Actividad3.cpp
+  Generando código...
+C:\Users\michh\Desktop\Practica3\Practica3\Actividad2.cpp(16,9): warning C4477: 'printf' : la cadena de formato '%d' requiere un argumento de tipo 'int', pero el argumento variádico 1 tiene el tipo 'double'
+Actividad3.obj : error LNK2005: ya se definió main en Actividad2.obj
+C:\Users\michh\Desktop\Practica3\x64\Debug\Practica3.exe : fatal error LNK1169: se encontraron uno o más símbolos definidos simultáneamente
