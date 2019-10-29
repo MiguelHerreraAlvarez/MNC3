@@ -1,1 +1,4 @@
-﻿
+﻿  Actividad2.cpp
+C:\Users\michh\Desktop\Practica3\Practica3\Actividad2.cpp(17,9): warning C4477: 'printf' : la cadena de formato '%d' requiere un argumento de tipo 'int', pero el argumento variádico 1 tiene el tipo 'double'
+C:\Users\michh\Desktop\Practica3\Practica3\Actividad2.cpp(25,23): warning C4018: '<': no coinciden signed/unsigned
+  Practica3.vcxproj -> C:\Users\michh\Desktop\Practica3\Debug\Practica3.exe

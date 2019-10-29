@@ -6,7 +6,7 @@
 
 #define N1 3
 #define N2 10
-void Actividad2::actividad2()
+void Actividad2::execute()
 {
 	int n, incv1 = 1, incv2 = 1;
 
@@ -23,7 +23,7 @@ void Actividad2::actividad2()
 	cblas_daxpy(n, 3, vA, incv1, vN, incv2);
 
 	for (size_t i = 0; i < n; i++) {
-		std::cout << vN[i] << ' ';
+		std::cout << char(vN[i]) << ' ';
 	}
 	std::cout << '\n';
 

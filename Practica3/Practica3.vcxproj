@@ -21,11 +21,15 @@
   <ItemGroup>
     <ClCompile Include="Actividad2.cpp" />
     <ClCompile Include="Actividad3.cpp" />
+    <ClCompile Include="Actividad4.cpp" />
+    <ClCompile Include="Actividad5.cpp" />
     <ClCompile Include="Practica3.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Actividad2.h" />
     <ClInclude Include="Actividad3.h" />
+    <ClInclude Include="Actividad4.h" />
+    <ClInclude Include="Actividad5.h" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>

@@ -4,6 +4,6 @@
 class Actividad2
 {
 public:
-	static void actividad2();
+	static void execute();
 };
-#endif // ACTIVIDAD2_H
+#endif //ACTIVIDAD2_H
